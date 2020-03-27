@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Darjo-Rj46
+ * @author Revan
  */
 public class ProductItem implements Serializable{
      String nama;     

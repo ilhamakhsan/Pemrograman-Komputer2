@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Darjo-Rj46
+ * @author Revan
  */
 public class Product implements Serializable{
      private String id;     

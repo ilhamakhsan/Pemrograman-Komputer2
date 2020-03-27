@@ -7,7 +7,7 @@ package serialisasi;
 
 /**
  *
- * @author Darjo-Rj46
+ * @author Revan
  */
 public class AddProduct extends javax.swing.JDialog {
 
